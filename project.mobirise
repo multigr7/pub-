@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "PROCES.html",
+    "currentPage": "OVER ONS.html",
     "name": "M 10",
     "theme": {
       "name": "mobirise3",
@@ -498,7 +498,7 @@
           },
           "_anchor": "features3-4e",
           "_params": {
-            "paddingTop": 2,
+            "paddingTop": "1",
             "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
@@ -955,7 +955,7 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "4",
             "paddingBottom": "3",
             "images": [
               {
@@ -1227,7 +1227,7 @@
           "_anchor": "header3-5b",
           "_params": {
             "paddingTop": "5",
-            "paddingBottom": "2",
+            "paddingBottom": "3",
             "bgColor": "#fff",
             "showMeta": true
           },
@@ -1249,7 +1249,7 @@
           },
           "_anchor": "content1-48",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "7",
             "bgColor": "#fff"
           },
