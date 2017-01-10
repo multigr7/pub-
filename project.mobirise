@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "START.html",
+    "currentPage": "OVER ONS.html",
     "name": "M 10",
     "theme": {
       "name": "mobirise3",
@@ -115,7 +115,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-01-128x128-88.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "https://multigr7.github.io/pub-/START.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -347,7 +347,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-01-128x128-88.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://multigr7.github.io/pub/",
+              "link": "https://multigr7.github.io/pub-/START.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -703,7 +703,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo-01-128x128-88.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "https://multigr7.github.io/pub-/START.html",
               "link": "https://multigr7.github.io/pub-/START.html",
               "title": "",
               "linkInNewWindow": false
@@ -847,7 +847,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-01-128x128-88.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://multigr7.github.io/pub/",
+              "link": "https://multigr7.github.io/pub-/START.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1185,7 +1185,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-01-128x128-88.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "https://multigr7.github.io/pub-/START.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1555,7 +1555,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-01-128x128-88.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "https://multigr7.github.io/pub-/START.html",
               "title": "",
               "linkInNewWindow": false
             },
