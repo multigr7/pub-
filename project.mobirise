@@ -914,9 +914,9 @@
               "size": 0
             }
           },
-          "title": "RUIMTE LICHAAM",
+          "title": "&nbsp; RUIMTE &nbsp; &nbsp; LICHAAM &nbsp;",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"RUIMTE LICHAAM.html#content1-5i\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;BEELDEN &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"RUIMTE LICHAAM.html#gallery2-5f\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; &nbsp; &nbsp; FILM &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br></a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"RUIMTE LICHAAM.html#content1-5i\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;BEELDEN &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"RUIMTE LICHAAM.html#gallery2-5f\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; &nbsp; FILM &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br></a>"
         },
         {
           "_tags": [
@@ -1625,7 +1625,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-size: 3rem; line-height: 1.1;\">PROCES</span><br>",
+          "title": "<span style=\"font-size: 3rem; line-height: 1.1;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;PROCES</span><br>",
           "text": "",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"ONTWERP PROCES.html#header3-56\" data-toolbar=\"-mbrBtnMove\">INSPIRATIE &amp; BRAINSTORM</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"ONTWERP PROCES.html#header3-58\" data-toolbar=\"-mbrBtnMove\">PROEFMAQUETTE</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"ONTWERP PROCES.html#header3-2y\" data-toolbar=\"-mbrBtnMove\">TECHNIEK &amp; MATERIAAL</a>"
         },
