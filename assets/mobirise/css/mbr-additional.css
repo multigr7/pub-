@@ -707,6 +707,12 @@ h6,
 
 
 
+
+
+
+
+
+
 #ext_menu-52 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -786,6 +792,60 @@ h6,
 #content1-5i H4 {
   color: #b8312f;
   text-align: center;
+}
+#header3-5k .mbr-section-title,
+#header3-5k .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5k H3 {
+  text-align: right;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 72px;
+}
+#header3-5k SMALL {
+  font-family: 'Lato', sans-serif;
+  font-size: 12px;
+}
+#header3-5k DIV {
+  font-size: 48px;
+  color: #000000;
+  text-align: right;
+}
+#header3-5n .mbr-section-title,
+#header3-5n .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5n H3 {
+  text-align: right;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 72px;
+}
+#header3-5n SMALL {
+  font-family: 'Lato', sans-serif;
+  font-size: 12px;
+}
+#header3-5n DIV {
+  font-size: 48px;
+  color: #000000;
+  text-align: right;
+}
+#header3-5p .mbr-section-title,
+#header3-5p .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5p H3 {
+  text-align: right;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 72px;
+}
+#header3-5p SMALL {
+  font-family: 'Lato', sans-serif;
+  font-size: 12px;
+}
+#header3-5p DIV {
+  font-size: 48px;
+  color: #000000;
+  text-align: right;
 }
 
 
@@ -884,7 +944,7 @@ h6,
 }
 #content1-48 P {
   font-family: 'Roboto', sans-serif;
-  font-size: 18px;
+  font-size: 17px;
   text-align: left;
 }
 #header3-5c .mbr-section-title,

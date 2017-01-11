@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "RUIMTE LICHAAM.html",
+    "currentPage": "REALISATIE.html",
     "name": "M 10",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 200,
+    "uniqCompNum": 206,
     "versionPublish": "3.10.5",
     "favicon": "",
     "noImageResize": ""
@@ -874,7 +874,7 @@
           "_params": {
             "imageSize": "68",
             "paddingTop": "7",
-            "paddingBottom": "6",
+            "paddingBottom": "7",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -916,7 +916,7 @@
           },
           "title": "&nbsp; RUIMTE &nbsp; &nbsp; LICHAAM &nbsp;",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"RUIMTE LICHAAM.html#content1-5i\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; BEELDEN &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"RUIMTE LICHAAM.html#content1-5i\" data-toolbar=\"-mbrBtnMove\">&nbsp;PLANNEN&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"RUIMTE LICHAAM.html#gallery2-5f\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; &nbsp; FILM &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br></a> "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"RUIMTE LICHAAM.html#content1-5i\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;BEELDEN&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"RUIMTE LICHAAM.html#header3-5n\" data-toolbar=\"-mbrBtnMove\">&nbsp;PLANNEN&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"RUIMTE LICHAAM.html#gallery2-5f\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; &nbsp; FILM &nbsp; &nbsp;<br></a> "
         },
         {
           "_tags": [
@@ -949,13 +949,49 @@
           "text": "<h4>\"Ruimte lichaam is een onfunctionele installatie die door middel van een performance op een interactieve wijze een bewegend lichaam weergeeft.\"</h4>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "72px"
+            },
+            "SMALL": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "12px"
+            },
+            "DIV": {
+              "font-size": "48px",
+              "color": "#000000",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5k",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "<div style=\"text-align: left;\"><span style=\"color: inherit; text-align: center;\">BEELDEN</span></div>",
+          "meta": ""
+        },
+        {
           "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "1",
             "paddingBottom": "3",
             "images": [
               {
@@ -992,13 +1028,49 @@
           "allItem": "All"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "72px"
+            },
+            "SMALL": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "12px"
+            },
+            "DIV": {
+              "font-size": "48px",
+              "color": "#000000",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5n",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "<div style=\"text-align: left;\"><span style=\"color: inherit; text-align: center;\">PLANNEN</span></div>",
+          "meta": ""
+        },
+        {
           "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "1",
             "paddingBottom": "3",
             "images": [
               {
@@ -1006,18 +1078,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2-2000x2666-1-800x10664.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2-2000x2666-16.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ruimtelichaam-2000x2666-800x10665.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ruimtelichaam-2000x26667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/multidisciplinariteitjury-1-2000x1414-800x565.jpg",
+                "image": "@PROJECT_PATH@/assets/images/multidisciplinariteitjury-1-2000x1414.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1035,13 +1097,49 @@
           "allItem": "All"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "72px"
+            },
+            "SMALL": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "12px"
+            },
+            "DIV": {
+              "font-size": "48px",
+              "color": "#000000",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5p",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "<div style=\"text-align: left;\"><span style=\"color: inherit; text-align: center;\">FILM</span></div>",
+          "meta": ""
+        },
+        {
           "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
           "_name": "gallery2",
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "1",
             "paddingBottom": "4",
             "images": [
               {
@@ -1286,7 +1384,7 @@
             "P": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "18px",
+              "font-size": "17px",
               "text-align": "left"
             }
           },
