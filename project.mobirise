@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "OVER ONS.html",
+    "currentPage": "RUIMTE LICHAAM.html",
     "name": "M 10",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 199,
+    "uniqCompNum": 200,
     "versionPublish": "3.10.5",
     "favicon": "",
     "noImageResize": ""
@@ -916,7 +916,7 @@
           },
           "title": "&nbsp; RUIMTE &nbsp; &nbsp; LICHAAM &nbsp;",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"RUIMTE LICHAAM.html#content1-5i\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;BEELDEN &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"RUIMTE LICHAAM.html#gallery2-5f\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; &nbsp; FILM &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br></a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"RUIMTE LICHAAM.html#content1-5i\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; BEELDEN &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"RUIMTE LICHAAM.html#content1-5i\" data-toolbar=\"-mbrBtnMove\">&nbsp;PLANNEN&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"RUIMTE LICHAAM.html#gallery2-5f\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; &nbsp; FILM &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br></a> "
         },
         {
           "_tags": [
@@ -988,6 +988,49 @@
             "showBullets": true
           },
           "_anchor": "gallery3-5e",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "images": [
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x2666-1-800x10664.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x2666-16.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ruimtelichaam-2000x2666-800x10665.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ruimtelichaam-2000x26667.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "4",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#ffffff",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-5j",
           "articleLayout": false,
           "allItem": "All"
         },
@@ -1253,7 +1296,7 @@
             "paddingBottom": "7",
             "bgColor": "#fff"
           },
-          "text": "<p>Ruimtelichaam is een onfunctionele installatie die door middel van een performance op een interactieve wijze een bewegend lichaam weergeeft. Om dit te bekomen hebben we interieurarchitectuur gelinkt met andere discplines zoals dans, lichaamsbewegingen en anatomie. \nDe installatie is opgebouwd uit een abstract netwerk van beenderen en gewrichten die met behulp van rekkers in een vierkant kader gespannen zijn. De beweging zelf komt tot stand doordat de rekkers tot aan elke buitenzijde van het kader lopen en er aan de uiteinden van de rekkers getrokken kan worden door vier verschillende mensen. Op deze manier komt het ruimtelichaam tot leven. \nDe afmetingen van de zogenaamde beenderen zijn niet willekeurig gekozen. Ze vertolken de lichaamsafmetingen van de kleinste persoon van ons team. Zo is het ook voor deze persoon gemakkelijk om aan al de rekkers te trekken zonder zich te moeten verrekken.\n</p>"
+          "text": "<p>Ruimtelichaam is een onfunctionele installatie die door middel van een performance op een interactieve wijze een bewegend lichaam weergeeft. Om dit te bekomen hebben we interieurarchitectuur gelinkt met andere disciplines zoals dans, lichaamsbewegingen en anatomie. \nDe installatie is opgebouwd uit een abstract netwerk van beenderen en gewrichten die met behulp van rekkers in een vierkant kader gespannen zijn. De beweging zelf komt tot stand doordat de rekkers tot aan elke buitenzijde van het kader lopen en er aan de uiteinden van de rekkers getrokken kan worden door vier verschillende mensen. Op deze manier komt het ruimtelichaam tot leven. \nDe afmetingen van de zogenaamde beenderen zijn niet willekeurig gekozen. Ze vertolken de lichaamsafmetingen van de kleinste persoon van ons team. Zo is het ook voor deze persoon gemakkelijk om aan al de rekkers te trekken zonder zich te moeten verrekken.\n</p>"
         },
         {
           "_styles": {
@@ -1409,17 +1452,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/15936469-10210231649099007-8432491341514094579-o-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/15936469-10210231649099007-8432491341514094579-o-2000x1500.jpg",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2368-2000x2666-1-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2368-2000x2666-1.jpg",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -1429,7 +1462,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/15875541-10210231649259011-1711690841951976582-o-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/15875541-10210231649259011-1711690841951976582-o-2000x1500.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -1675,7 +1708,7 @@
               "text-align": "left",
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "15px"
+              "font-size": "17px"
             },
             "P": {
               "font-size": "17px",
@@ -1810,7 +1843,7 @@
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "color": "#000000",
-              "font-size": "15px"
+              "font-size": "17px"
             },
             "P": {
               "font-size": "17px",
